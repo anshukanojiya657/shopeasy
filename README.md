@@ -3,7 +3,7 @@
 A responsive e-commerce web application built with React where users can browse products, manage a shopping cart, and place orders.
 
 ## Live Demo
-- Website: (add your live link here)
+- Website: https://shopeasy-kappa-ten.vercel.app/
 
 ## Features
 - Product listing with search and category filter

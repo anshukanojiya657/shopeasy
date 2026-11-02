@@ -33,7 +33,7 @@ client/
 
 ## Setup Instructions
 ```
-git clone <your-repo-link>
+git clone https://github.com/anshukanojiya657/shopeasy
 cd shopeasy/client
 npm install
 npm run dev

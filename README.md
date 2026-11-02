@@ -42,8 +42,6 @@ Open `http://localhost:5173` in your browser.
 
 ## Notes
 - This version has no backend. Accounts and orders are stored in the browser only, so they are specific to the device and browser used.
-- Passwords are hashed with SHA-256 before being stored. This is suitable for a demo, not for production use.
-- A full-stack version (Node.js, Express, MongoDB, JWT) of this project is available separately.
 
 ## Author
 Anshu - B.Tech CSE-AI, USICT, GGSIPU
